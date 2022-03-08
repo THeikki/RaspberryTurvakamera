@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turvakamera", "turvakamera\turvakamera.csproj", "{6077D3AE-D282-4159-82DA-8BB44685DBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6077D3AE-D282-4159-82DA-8BB44685DBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6077D3AE-D282-4159-82DA-8BB44685DBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6077D3AE-D282-4159-82DA-8BB44685DBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6077D3AE-D282-4159-82DA-8BB44685DBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C6E5F2-129E-4A5E-9BF1-282BB22CC439}
+	EndGlobalSection
+EndGlobal
